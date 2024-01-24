@@ -1,0 +1,33 @@
+.header {
+    font-family: 'Satisfy', cursive;
+}
+
+.link {
+    text-decoration: none;
+    
+
+}
+.link:hover {
+    color: darkgreen;
+}
+.eto {
+    text-decoration: none;
+    font-style: oblique;
+    font-family: 'Satisfy', cursive;
+    border-radius: 20px;
+    font-weight: 900;
+    color: brown;
+
+}
+
+.chosen {
+    color: blue !important;
+}
+
+.footer{
+    font-family: 'Grape Nuts', cursive;
+    font-size: 30px;
+}
+.article{
+    font-size: 40px;
+}
